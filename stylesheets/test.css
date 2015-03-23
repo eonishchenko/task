@@ -1,0 +1,314 @@
+/* line 20, ../sass/test.scss */
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 800px;
+}
+
+/* line 28, ../sass/test.scss */
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+@media (max-width: 480px) {
+  /* line 43, ../sass/test.scss */
+  .col-xs-1 {
+    float: left;
+    width: 8.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-2 {
+    float: left;
+    width: 16.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-3 {
+    float: left;
+    width: 25%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-4 {
+    float: left;
+    width: 33.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-5 {
+    float: left;
+    width: 41.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-6 {
+    float: left;
+    width: 50%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-7 {
+    float: left;
+    width: 58.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-8 {
+    float: left;
+    width: 66.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-9 {
+    float: left;
+    width: 75%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-10 {
+    float: left;
+    width: 83.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-11 {
+    float: left;
+    width: 91.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-xs-12 {
+    float: left;
+    width: 100%;
+  }
+}
+@media (max-width: 768px) and (min-width: 481px) {
+  /* line 43, ../sass/test.scss */
+  .col-sm-1 {
+    float: left;
+    width: 8.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-2 {
+    float: left;
+    width: 16.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-3 {
+    float: left;
+    width: 25%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-4 {
+    float: left;
+    width: 33.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-5 {
+    float: left;
+    width: 41.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-6 {
+    float: left;
+    width: 50%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-7 {
+    float: left;
+    width: 58.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-8 {
+    float: left;
+    width: 66.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-9 {
+    float: left;
+    width: 75%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-10 {
+    float: left;
+    width: 83.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-11 {
+    float: left;
+    width: 91.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-sm-12 {
+    float: left;
+    width: 100%;
+  }
+}
+@media (max-width: 1024px) and (min-width: 769px) {
+  /* line 43, ../sass/test.scss */
+  .col-md-1 {
+    float: left;
+    width: 8.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-2 {
+    float: left;
+    width: 16.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-3 {
+    float: left;
+    width: 25%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-4 {
+    float: left;
+    width: 33.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-5 {
+    float: left;
+    width: 41.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-6 {
+    float: left;
+    width: 50%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-7 {
+    float: left;
+    width: 58.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-8 {
+    float: left;
+    width: 66.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-9 {
+    float: left;
+    width: 75%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-10 {
+    float: left;
+    width: 83.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-11 {
+    float: left;
+    width: 91.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-md-12 {
+    float: left;
+    width: 100%;
+  }
+}
+@media (min-width: 1025px) {
+  /* line 43, ../sass/test.scss */
+  .col-lg-1 {
+    float: left;
+    width: 8.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-2 {
+    float: left;
+    width: 16.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-3 {
+    float: left;
+    width: 25%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-4 {
+    float: left;
+    width: 33.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-5 {
+    float: left;
+    width: 41.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-6 {
+    float: left;
+    width: 50%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-7 {
+    float: left;
+    width: 58.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-8 {
+    float: left;
+    width: 66.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-9 {
+    float: left;
+    width: 75%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-10 {
+    float: left;
+    width: 83.33333%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-11 {
+    float: left;
+    width: 91.66667%;
+  }
+
+  /* line 43, ../sass/test.scss */
+  .col-lg-12 {
+    float: left;
+    width: 100%;
+  }
+}
+/* line 59, ../sass/test.scss */
+p {
+  padding: 20px;
+  color: white;
+  background: #9b59b6;
+  margin: 20px;
+}
